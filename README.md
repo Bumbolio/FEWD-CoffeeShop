@@ -1,5 +1,7 @@
 # Introduction:
 
+Hello
+
 This is a sample design for Code Louisville's Front-End Web Development pathway. The following sample mockup can be used as is or as a wireframe/template for your own project. Please discuss your project with a mentor if you have any questions.
 
 --
